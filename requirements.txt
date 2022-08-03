@@ -12,3 +12,4 @@ pandas>=0.19
 Cython>= 0.28.5
 Flask-SQLAlchemy==2.5.1
 flask-marshmallow==0.14.0
+marshmallow==3.17.0
